@@ -10,6 +10,10 @@ public class Colecciones {
     /*
     *inked list
     */
+    //hola
+    
+
+
     public void listaEnlazada(){
         List<Persona> list= new LinkedList<>();
         list.add(new Persona("hoa",35));
